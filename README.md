@@ -1,2 +1,1 @@
-# SAM-APP-LAMBDA-APIGATEWAY
-Demo de SAM para levantar una función Lambda en AWS y una API Gateway
+# [YouTube Video](https://www.youtube.com/watch?v=MipjLaTp5nA&ab_channel=BeABetterDev)
